@@ -1,0 +1,2 @@
+# iPadMasrerDetailAppDemo
+Code Practice
